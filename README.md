@@ -10,8 +10,8 @@ Snake is in Orange (Dark Orange) Color and Food is in Green (Forest Green) Color
 
 <br />
 
-![Snake Game ScreenShot 1](src/images/snake-game-1.png)
-![Snake Game ScreenShot 2](src/images/snake-game-2.png)
+![Snake Game ScreenShot 1](https://raw.githubusercontent.com/nayanbunny/Snake-Game-CSharp/main/src/Images/snake-game-1.png)
+![Snake Game ScreenShot 2](https://raw.githubusercontent.com/nayanbunny/Snake-Game-CSharp/main/src/Images/snake-game-2.png)
 <br />
 
 ## License
